@@ -1,0 +1,29 @@
+{
+  "name": "pre-onboarding-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangjinlog/wanted-pre-onboarding-challenge-fe-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangjinlog/wanted-pre-onboarding-challenge-fe-ts/issues"
+  },
+  "homepage": "https://github.com/tangjinlog/wanted-pre-onboarding-challenge-fe-ts#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  },
+  "dependencies": {
+    "jsdoc-webpack-plugin": "^0.3.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
